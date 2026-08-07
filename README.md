@@ -45,7 +45,7 @@ A **comprehensive and modern library management solution** that leverages QR cod
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ikjasrasool/library.git
+git clone https://github.com/krishnanp20112012-gif/library.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
